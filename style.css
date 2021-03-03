@@ -1,0 +1,78 @@
+body{
+background-color: rgb(164, 217, 233);
+}
+h1.cv{
+    font-family: 'DotGothic16', sans-serif;
+    text-align: center;
+    color: darkorange;
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+a.cv{
+    font-family: 'DotGothic16', sans-serif;
+    text-align: center;
+    color: darkorange;
+    text-decoration: underline;
+    text-decoration-color: blue;
+
+}
+img.ciu{
+    width: 20%;
+}
+section.img1{
+    background-color: rgb(143, 61, 61);
+left: 2cm;
+}
+section.img2{
+    background-color: rgb(226, 203, 101);
+    text-align: center;
+}
+section.img3{
+    background-color: rgb(238, 135, 224);
+    left: 2cm;
+}
+hr.uno{
+    color: rgb(164, 217, 233);
+}
+p.webdes{
+    text-align: center;
+    color: blue;
+    background-color: white;
+    position: relative;
+}
+span.noah{
+    color: red;
+}
+a.img3{
+    position: relative;
+    left: 22cm;
+}
+a.img1{
+    position: relative;
+    left: 5cm;
+}
+
+
+
+
+
+
+div.izq{
+    width: 40%;
+    background-color: coral;
+    line-height: 150%;
+    float: left;
+}
+div.der{
+    background-color: blue;
+    color: white;
+    display: inline;
+    line-height: 120%;
+    font-size: 120%;
+    }
+    p.azul{
+        color: blue;
+    }
+    section.white{
+        background-color: white;
+    }
